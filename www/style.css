@@ -1,0 +1,15 @@
+.bg-1 {
+    background-image: url("assets/chien-plus-facile-a-dresser.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.infoChien {
+    text-align: center;
+    color: blue;
+}
+
+.infoMaitre {
+    text-align: center;
+    color: blue;
+}
